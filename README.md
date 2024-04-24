@@ -1,4 +1,4 @@
-# FLIT-SHAP
+# FLIT-SHAP [Feature Localized Intercept Transformed-Shapley Additive Explanations]
 This function takes in SHAP values and the global intercept then generates the FLIT-SHAP values.
 
 Originally, SHAP values for all features +  the global intercept = prediction for that sample/ case.
